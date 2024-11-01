@@ -1,0 +1,16 @@
+{"time":"2024-11-01T12:04:45.8712752+05:30","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-01T12:04:45.8715006+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\Atharav Jadhav\\FYP\\BN-WVAD_UCF_git\\wandb\\offline-run-20241101_120445-gw4mlrab\\logs\\debug-core.log"}
+{"time":"2024-11-01T12:04:46.6615242+05:30","level":"INFO","msg":"created new stream","id":"gw4mlrab"}
+{"time":"2024-11-01T12:04:46.6623696+05:30","level":"INFO","msg":"stream: started","id":"gw4mlrab"}
+{"time":"2024-11-01T12:04:46.6623696+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"gw4mlrab"}}
+{"time":"2024-11-01T12:04:46.6623696+05:30","level":"INFO","msg":"sender: started","stream_id":"gw4mlrab"}
+{"time":"2024-11-01T12:04:46.6623696+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"gw4mlrab"}}
+{"time":"2024-11-01T12:04:46.7410493+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-01T12:04:46.7425843+05:30","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2024-11-01T12:04:49.3122823+05:30","level":"INFO","msg":"stream: closing","id":"gw4mlrab"}
+{"time":"2024-11-01T12:04:49.3128802+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-01T12:04:49.3140145+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-01T12:04:49.3145213+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"gw4mlrab"}}
+{"time":"2024-11-01T12:04:49.3145213+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"gw4mlrab"}}
+{"time":"2024-11-01T12:04:49.3145213+05:30","level":"INFO","msg":"sender: closed","stream_id":"gw4mlrab"}
+{"time":"2024-11-01T12:04:49.3150629+05:30","level":"INFO","msg":"stream: closed","id":"gw4mlrab"}

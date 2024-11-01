@@ -1,0 +1,27 @@
+{
+  "os": "Windows-11-10.0.22631-SP0",
+  "python": "3.12.4",
+  "startedAt": "2024-11-01T06:34:45.729540Z",
+  "program": "c:\\Users\\Atharav Jadhav\\FYP\\BN-WVAD_UCF_git\\main.py",
+  "codePath": "main.py",
+  "root": "C:\\Users\\Atharav Jadhav\\FYP\\BN-WVAD_UCF_git",
+  "host": "Atharav14",
+  "username": "Atharav Jadhav",
+  "executable": "C:\\Program Files\\Python312\\python.exe",
+  "codePathLocal": "main.py",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "491340689408",
+      "used": "211688759296"
+    }
+  },
+  "memory": {
+    "total": "16905965568"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}
