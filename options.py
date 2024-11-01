@@ -6,7 +6,8 @@ def parse_args():
     parser = argparse.ArgumentParser(description = descript)
     parser.add_argument('--len_feature', type = int, default = 1024)
 
-    parser.add_argument('--root_dir', type = str, default = 'D:\\Data\\BN-WVAD_UCF-Crime')
+    #parser.add_argument('--root_dir', type = str, default = 'D:\\Data\\BN-WVAD_UCF-Crime')
+    parser.add_argument('--root_dir', type = str, default = '/content/duplicate/data')
     parser.add_argument('--log_path', type = str, default = 'logs/')
     
     parser.add_argument('--model_path', type = str, default = 'ckpts/')
